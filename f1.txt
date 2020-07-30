@@ -1,0 +1,2 @@
+This is first file of first-repo in git
+used to create the file and satged and commit by sharath developer.
